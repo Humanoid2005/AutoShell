@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+autoshell/__init__.py
+autoshell/__main__.py
+autoshell.egg-info/PKG-INFO
+autoshell.egg-info/SOURCES.txt
+autoshell.egg-info/dependency_links.txt
+autoshell.egg-info/entry_points.txt
+autoshell.egg-info/requires.txt
+autoshell.egg-info/top_level.txt
+autoshell/scripts/__init__.py
+autoshell/scripts/ai.py
+autoshell/scripts/cli.py
+autoshell/scripts/db.py
+autoshell/scripts/macros.py

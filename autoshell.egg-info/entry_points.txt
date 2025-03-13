@@ -1,0 +1,2 @@
+[console_scripts]
+autoshell = autoshell.scripts.cli:main
