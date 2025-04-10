@@ -64,6 +64,12 @@ Install autoshell using pip
   pip install dist/autoshell-0.1.0-py3-none-any.whl
 ```
 
+Run the CLI application
+
+```bash
+  autoshell
+```
+
 ## Run Locally (without installing the package)
 
 Clone the project
